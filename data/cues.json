@@ -1,0 +1,194 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Overture",
+        "file": "01_Overture.wav",
+        "autostart": false
+    },
+    "2": {
+        "id": 2,
+        "name": "Oh The Thinks You Can Think",
+        "file": "02_Oh The Thinks You Can Think-performance.wav",
+        "autostart": true
+    },
+    "3": {
+        "id": 3,
+        "name": "Horton Hears A Who",
+        "file": "03_Horton Hears A Who-performance.wav",
+        "autostart": false
+    },
+    "4": {
+        "id": 4,
+        "name": "Biggest Blame Fool",
+        "file": "04_Biggest Blame Fool-performance.wav",
+        "autostart": false
+    },
+    "5": {
+        "id": 5,
+        "name": "Biggest Blame Fool Playoff Gertrude McFuzz",
+        "file": "05_Biggest Blame Fool Playoff  Gertrude McFuzz-performance.wav",
+        "autostart": false
+    },
+    "6": {
+        "id": 6,
+        "name": "Here On Who",
+        "file": "06_Here On Who-performance.wav",
+        "autostart": false
+    },
+    "7": {
+        "id": 7,
+        "name": "Meet JoJo The Who",
+        "file": "07_Meet JoJo The Who-performance.wav",
+        "autostart": false
+    },
+    "8": {
+        "id": 8,
+        "name": "How To Raise A Child",
+        "file": "08_How To Raise A Child-performance.wav",
+        "autostart": true
+    },
+    "9": {
+        "id": 9,
+        "name": "Oh The Thinks You Can Think Reprise",
+        "file": "09_Oh The Thinks You Can Think Reprise-performance.wav",
+        "autostart": false
+    },
+    "10": {
+        "id": 10,
+        "name": "It's Possible Part 1",
+        "file": "10_It_s Possible Part 1-performance.wav",
+        "autostart": false
+    },
+    "11": {
+        "id": 11,
+        "name": "It's Possible Part 2",
+        "file": "11_It_s Possible Part 2-performance.wav",
+        "autostart": false
+    },
+    "12": {
+        "id": 12,
+        "name": "Alone In The Universe",
+        "file": "12_Alone In The Universe-performance.wav",
+        "autostart": false
+    },
+    "13": {
+        "id": 13,
+        "name": "The One Feather Tail of Miss Gertrude McFuzz Amazying Mayzie",
+        "file": "13_The One Feather Tail of Miss Gertrude McFuzz  Amazying Mayzie-performance.wav",
+        "autostart": false
+    },
+    "14": {
+        "id": 14,
+        "name": "Amayzing Gertrude Part 1",
+        "file": "14_Amayzing Gertrude Part 1-performance.wav",
+        "autostart": false
+    },
+    "15": {
+        "id": 15,
+        "name": "Amayzing Gertrude Part 2",
+        "file": "15_Amayzing Gertrude Part 2-performance.wav",
+        "autostart": false
+    },
+    "16": {
+        "id": 16,
+        "name": "Monkey Around Chasing The Whos",
+        "file": "16_Monkey Around  Chasing The Whos-performance.wav",
+        "autostart": false
+    },
+    "17": {
+        "id": 17,
+        "name": "Notice Me Horton",
+        "file": "17_Notice Me Horton-performance.wav",
+        "autostart": false
+    },
+    "18": {
+        "id": 18,
+        "name": "The Search Continues",
+        "file": "18_The Search Continues-performance.wav",
+        "autostart": false
+    },
+    "19": {
+        "id": 19,
+        "name": "How Lucky You Are",
+        "file": "19_How Lucky You Are-performance.wav",
+        "autostart": false
+    },
+    "20": {
+        "id": 20,
+        "name": "Mayzies Exit Horton Sits On The Egg Dilemma Hunters",
+        "file": "20_Mayzies Exit  Horton Sits On The Egg  Dilemma  Hunters-performance.wav",
+        "autostart": false
+    },
+    "25": {
+        "id": 25,
+        "name": "Alone In The Universe Reprise",
+        "file": "25_Alone In The Universe Reprise-performance.wav",
+        "autostart": false
+    },
+    "26": {
+        "id": 26,
+        "name": "Solla Sollew",
+        "file": "26_Solla Sollew-performance.wav",
+        "autostart": false
+    },
+    "27": {
+        "id": 27,
+        "name": "Gertrude Espionage Part 1",
+        "file": "27_Gertrude  Espionage Part 1-performance.wav",
+        "autostart": false
+    },
+    "28": {
+        "id": 28,
+        "name": "Gertrude Espionage Part 2",
+        "file": "28_Gertrude  Espionage Part 2-performance.wav",
+        "autostart": false
+    },
+    "29": {
+        "id": 29,
+        "name": "All For You",
+        "file": "29_All For You-performance.wav",
+        "autostart": false
+    },
+    "30": {
+        "id": 30,
+        "name": "The Whos Return The People Versus Horton The Elephant Part 1",
+        "file": "30_The Whos Return  The People Versus Horton The Elephant Part 1-performance.wav",
+        "autostart": false
+    },
+    "31": {
+        "id": 31,
+        "name": "The People Versus Horton The Elephant Part 2",
+        "file": "31_The People Versus Horton The Elephant Part 2-performance.wav",
+        "autostart": false
+    },
+    "32": {
+        "id": 32,
+        "name": "Yopp!",
+        "file": "32_Yopp!-performance.wav",
+        "autostart": false
+    },
+    "33": {
+        "id": 33,
+        "name": "Alone In The Universe Reprise",
+        "file": "33_Alone In The Universe Reprise-performance.wav",
+        "autostart": false
+    },
+    "34": {
+        "id": 34,
+        "name": "Oh The Thinks You Can Think Finale",
+        "file": "34_Oh The Thinks You Can Think Finale-performance.wav",
+        "autostart": false
+    },
+    "35": {
+        "id": 35,
+        "name": "Green Eggs And Ham Finale Bows",
+        "file": "35_Green Eggs And Ham Finale Bows-performance.wav",
+        "autostart": false
+    },
+    "36": {
+        "id": 36,
+        "name": "Exit Music",
+        "file": "36_Exit Music-performance.wav",
+        "autostart": false
+    }
+}
