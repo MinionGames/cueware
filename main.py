@@ -19,6 +19,7 @@ def main() -> None:
 
 	root = tk.Tk()
 	root.title("Cueware - Seussical Audio Cue Manager")
+	root.iconbitmap("assets/SeussHat.ico")
 	root.geometry("1200x800")
 	root.minsize(900, 600)
 	root.configure(bg="#121212")
