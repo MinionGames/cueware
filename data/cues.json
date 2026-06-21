@@ -9,13 +9,13 @@
         "id": 2,
         "name": "Oh The Thinks You Can Think",
         "file": "02_Oh The Thinks You Can Think-performance.wav",
-        "autostart": true
+        "autostart": false
     },
     "3": {
         "id": 3,
         "name": "Horton Hears A Who",
         "file": "03_Horton Hears A Who-performance.wav",
-        "autostart": false
+        "autostart": true
     },
     "4": {
         "id": 4,
@@ -39,13 +39,13 @@
         "id": 7,
         "name": "Meet JoJo The Who",
         "file": "07_Meet JoJo The Who-performance.wav",
-        "autostart": false
+        "autostart": true
     },
     "8": {
         "id": 8,
         "name": "How To Raise A Child",
         "file": "08_How To Raise A Child-performance.wav",
-        "autostart": true
+        "autostart": false
     },
     "9": {
         "id": 9,
@@ -57,7 +57,7 @@
         "id": 10,
         "name": "It's Possible Part 1",
         "file": "10_It_s Possible Part 1-performance.wav",
-        "autostart": false
+        "autostart": true
     },
     "11": {
         "id": 11,
@@ -81,7 +81,7 @@
         "id": 14,
         "name": "Amayzing Gertrude Part 1",
         "file": "14_Amayzing Gertrude Part 1-performance.wav",
-        "autostart": false
+        "autostart": true
     },
     "15": {
         "id": 15,
@@ -129,7 +129,7 @@
         "id": 26,
         "name": "Solla Sollew",
         "file": "26_Solla Sollew-performance.wav",
-        "autostart": false
+        "autostart": true
     },
     "27": {
         "id": 27,
@@ -165,19 +165,19 @@
         "id": 32,
         "name": "Yopp!",
         "file": "32_Yopp!-performance.wav",
-        "autostart": false
+        "autostart": true
     },
     "33": {
         "id": 33,
         "name": "Alone In The Universe Reprise",
         "file": "33_Alone In The Universe Reprise-performance.wav",
-        "autostart": false
+        "autostart": true
     },
     "34": {
         "id": 34,
         "name": "Oh The Thinks You Can Think Finale",
         "file": "34_Oh The Thinks You Can Think Finale-perfomance.wav",
-        "autostart": false
+        "autostart": true
     },
     "35": {
         "id": 35,
